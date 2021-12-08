@@ -18,15 +18,15 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://kotlinlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/> </a>
-    <a href="https://developer.android.com/?hl=id" target="_blank"><img src="https://w7.pngwing.com/pngs/708/433/png-transparent-android-computer-icons-android-logo-grass-android.png"/> </a>
+    <a href="https://kotlinlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/></a>
+    <a href="https://developer.android.com/?hl=id" target="_blank"><img src="https://w7.pngwing.com/pngs/708/433/png-transparent-android-computer-icons-android-logo-grass-android.png"/></a>
     <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/></a>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png"/></a>
     <a href="https://www.ti.com/microcontrollers-mcus-processors/edge-ai.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/800px-TensorFlowLogo.svg.png"/></a>
     <a href="https://www.firebase.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-    <a href="https://developer.android.com/studio" target="_blank"><img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"/></a>
+    <a href="https://developer.android.com/studio" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png"/></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
     <a href="https://colab.research.google.com/?utm_source=scs-index" target="_blank"><img src="https://image.pngaaa.com/235/2510235-middle.png"/></a>
    
@@ -57,7 +57,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://play.google.com/store/apps/developer?id=Faris+Ghilmany"><img src="https://i.pinimg.com/originals/fe/78/7f/fe787fb4c0fdc7b0f9ab423688e9121e.jpg"/></a>
+<a href = "https://play.google.com/store/apps/developer?id=Faris+Ghilmany"><https://cdn.pixabay.com/photo/2016/08/31/00/49/google-1632434_960_720.png"/></a>
 <a href = "https://www.linkedin.com/in/faris-ghilmany/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.fghilmany.medium.com/"><img src="https://miro.medium.com/max/2000/1*jfdwtvU6V6g99q3G7gq7dQ.png"/></a>
 <a href = "https://www.instagram.com/fghilmany/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
