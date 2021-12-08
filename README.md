@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img src="https://raw.githubusercontent.com/fghilmany/Infinity-Scroll/master/screenshot/profile.png" height="400px"/></a>
+<a href="#"><img src="https://avatars.githubusercontent.com/u/41791633?v=4" height="400px"/></a>
 
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Faris Ghilmany</h1>
@@ -21,8 +21,8 @@
     <a href="https://kotlinlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/> </a>
     <a href="https://developer.android.com/?hl=id" target="_blank"><img src="https://w7.pngwing.com/pngs/708/433/png-transparent-android-computer-icons-android-logo-grass-android.png"/> </a>
     <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/></a>
-    <a href="https://www.python.org/" target="_blank"><img src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png"/></a>
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"/></a>
+    <a href="https://www.python.org/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/></a>
+    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png"/></a>
     <a href="https://www.ti.com/microcontrollers-mcus-processors/edge-ai.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/800px-TensorFlowLogo.svg.png"/></a>
     <a href="https://www.firebase.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
@@ -57,7 +57,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://play.google.com/store/apps/developer?id=Faris+Ghilmany"><img src="https://w7.pngwing.com/pngs/795/310/png-transparent-google-developer-day-google-play-google-developers-google-logo-gadget-television-angle-text.png"/></a>
+<a href = "https://play.google.com/store/apps/developer?id=Faris+Ghilmany"><img src="https://i.pinimg.com/originals/fe/78/7f/fe787fb4c0fdc7b0f9ab423688e9121e.jpg"/></a>
 <a href = "https://www.linkedin.com/in/faris-ghilmany/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.fghilmany.medium.com/"><img src="https://miro.medium.com/max/2000/1*jfdwtvU6V6g99q3G7gq7dQ.png"/></a>
 <a href = "https://www.instagram.com/fghilmany/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
