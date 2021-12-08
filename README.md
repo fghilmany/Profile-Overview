@@ -57,7 +57,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://play.google.com/store/apps/developer?id=Faris+Ghilmany"><img src="https://cdn.pixabay.com/photo/2016/08/31/00/49/google-1632434_960_720.png"/></a>
+<a href = "https://play.google.com/store/apps/developer?id=Faris+Ghilmany"><img src="https://image.flaticon.com/icons/png/512/732/732208.png"/></a>
 <a href = "https://www.linkedin.com/in/faris-ghilmany/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.fghilmany.medium.com/"><img src="https://miro.medium.com/max/2000/1*jfdwtvU6V6g99q3G7gq7dQ.png"/></a>
 <a href = "https://www.instagram.com/fghilmany/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
